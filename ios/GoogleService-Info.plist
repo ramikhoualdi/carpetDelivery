@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>542236558748-qnhbjq0tqlvbll25dorqqruict2cn0rm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.542236558748-qnhbjq0tqlvbll25dorqqruict2cn0rm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>542236558748-d30n4fg46qfrs8ekqashrsmiu3311ds9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBi1TC59BE-Ck6QknVkAr_pjT6pSEPs-HU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>542236558748</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shammarafzal.CarpetDelivery</string>
+	<key>PROJECT_ID</key>
+	<string>carpet-cleaning-2062b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carpet-cleaning-2062b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:542236558748:ios:3348a9b7ebb2a63cae7459</string>
+</dict>
+</plist>

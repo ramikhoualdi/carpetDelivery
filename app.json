@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "CarpetDelivery",
+    "slug": "CarpetDelivery",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.shammarafzal.CarpetDelivery"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.shammarafzal.CarpetDelivery"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Carpet App",
+    "githubUrl": "https://github.com/rajpootrana99/carpetDeliveryUI.git"
+  }
+}

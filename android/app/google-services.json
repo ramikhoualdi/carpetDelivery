@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "542236558748",
+    "project_id": "carpet-cleaning-2062b",
+    "storage_bucket": "carpet-cleaning-2062b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542236558748:android:ae9e413902117abfae7459",
+        "android_client_info": {
+          "package_name": "com.shammarafzal.CarpetDelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542236558748-d30n4fg46qfrs8ekqashrsmiu3311ds9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shammarafzal.CarpetDelivery",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "542236558748-bkack4n4us8h71mng01m2m8uni99hp46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAznO4-54AilcBk2LrQnOqMDq9sE5yzles"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542236558748-bkack4n4us8h71mng01m2m8uni99hp46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542236558748-qnhbjq0tqlvbll25dorqqruict2cn0rm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shammarafzal.CarpetDelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
