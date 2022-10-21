@@ -31,7 +31,7 @@
     "react-native-gesture-handler": "~1.10.2",
     "react-native-ico-payment-method": "^3.3.1",
     "react-native-payment-icons": "^1.0.11",
-    "react-native-reanimated": "~2.2.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-safe-area-context": "3.3.2",
     "react-native-screens": "~3.8.0",
     "react-native-snap-carousel": "^3.9.1",
